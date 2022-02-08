@@ -13,5 +13,7 @@ EvenSpacer finds the layout to equally space items within a given length
 ![EvenSpacer screenshot](spacer.png)
 ## How to
 For spacing items on a slope, enter the angle of the slope. Opening width is measured along the slope, max space is measured at 0 degrees (level), see image below
+
+![spacing](explanation.png)
 ## Contact
 Contact me framingcalc@gmail.com if you have any questions. Thank you.
